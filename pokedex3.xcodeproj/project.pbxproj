@@ -12,6 +12,7 @@
 		0DB32BC61D814B1C00C9C14F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DB32BC41D814B1C00C9C14F /* Main.storyboard */; };
 		0DB32BC81D814B1C00C9C14F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DB32BC71D814B1C00C9C14F /* Assets.xcassets */; };
 		0DB32BCB1D814B1C00C9C14F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DB32BC91D814B1C00C9C14F /* LaunchScreen.storyboard */; };
+		0DF27C271D8161AD005DEB4B /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 0DF27C261D8161AD005DEB4B /* pokemon.csv */; };
 		2CDE0874130A936F469463C9 /* Pods_pokedex3.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 473B1A03B556C1549ADA4E7E /* Pods_pokedex3.framework */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 		0DB32BC71D814B1C00C9C14F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0DB32BCA1D814B1C00C9C14F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0DB32BCC1D814B1C00C9C14F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0DF27C261D8161AD005DEB4B /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 		473B1A03B556C1549ADA4E7E /* Pods_pokedex3.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_pokedex3.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A9362975066688603C56046 /* Pods-pokedex3.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pokedex3.release.xcconfig"; path = "Pods/Target Support Files/Pods-pokedex3/Pods-pokedex3.release.xcconfig"; sourceTree = "<group>"; };
 		D7A2E51D7B6A0DB1CCAA56CC /* Pods-pokedex3.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pokedex3.debug.xcconfig"; path = "Pods/Target Support Files/Pods-pokedex3/Pods-pokedex3.debug.xcconfig"; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				0DB32BC21D814B1C00C9C14F /* ViewController.swift */,
 				0DB32BC41D814B1C00C9C14F /* Main.storyboard */,
 				0DB32BC71D814B1C00C9C14F /* Assets.xcassets */,
+				0DF27C261D8161AD005DEB4B /* pokemon.csv */,
 				0DB32BC91D814B1C00C9C14F /* LaunchScreen.storyboard */,
 				0DB32BCC1D814B1C00C9C14F /* Info.plist */,
 			);
@@ -154,6 +157,7 @@
 			files = (
 				0DB32BCB1D814B1C00C9C14F /* LaunchScreen.storyboard in Resources */,
 				0DB32BC81D814B1C00C9C14F /* Assets.xcassets in Resources */,
+				0DF27C271D8161AD005DEB4B /* pokemon.csv in Resources */,
 				0DB32BC61D814B1C00C9C14F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
