@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D0DF7A91D8303E20000A387 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D0DF7A81D8303E20000A387 /* Constants.swift */; };
 		0D66752B1D8259A300F10A6C /* PokemonDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D66752A1D8259A300F10A6C /* PokemonDetailVC.swift */; };
 		0DB32BC11D814B1C00C9C14F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DB32BC01D814B1C00C9C14F /* AppDelegate.swift */; };
 		0DB32BC31D814B1C00C9C14F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DB32BC21D814B1C00C9C14F /* ViewController.swift */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0D0DF7A81D8303E20000A387 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		0D66752A1D8259A300F10A6C /* PokemonDetailVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokemonDetailVC.swift; sourceTree = "<group>"; };
 		0DB32BBD1D814B1C00C9C14F /* pokedex3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pokedex3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DB32BC01D814B1C00C9C14F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -122,6 +124,7 @@
 			isa = PBXGroup;
 			children = (
 				0DF1E1DB1D81B15800ADF6FE /* csv.swift */,
+				0D0DF7A81D8303E20000A387 /* Constants.swift */,
 			);
 			name = Util;
 			sourceTree = "<group>";
@@ -283,6 +286,7 @@
 				0DB32BC31D814B1C00C9C14F /* ViewController.swift in Sources */,
 				0DB32BC11D814B1C00C9C14F /* AppDelegate.swift in Sources */,
 				0D66752B1D8259A300F10A6C /* PokemonDetailVC.swift in Sources */,
+				0D0DF7A91D8303E20000A387 /* Constants.swift in Sources */,
 				0DF27C2A1D81638E005DEB4B /* Pokemon.swift in Sources */,
 				0DF1E1DC1D81B15800ADF6FE /* csv.swift in Sources */,
 			);
